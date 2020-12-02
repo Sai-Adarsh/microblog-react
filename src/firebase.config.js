@@ -8,4 +8,3 @@ export default {
     appId: "",
     measurementId: ""
 };
-    
